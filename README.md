@@ -47,10 +47,6 @@ Contoh :
 
         npm run start
 
-Jika sudah dijalankan tampilan yang muncul seperti gambar dibawah :
-
-![browser setelah di run start](./assets/react.PNG)
-
 
 *Note :*
 - *File extension dari javascript pada react adalah **.jsx***
